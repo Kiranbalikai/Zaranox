@@ -344,7 +344,7 @@ export default function About() {
               <span className="text-yellow-400 font-semibold">
                 Aakash Aggarwal
               </span>
-              , Zaranox Electrical Solutions represents four decades of
+              , Zaronox Electrical Solutions represents four decades of
               electrical innovation and excellence.
             </p>
             <p>
@@ -355,7 +355,7 @@ export default function About() {
             </p>
             <p>
               Beyond business success, we're committed to social impact,
-              contributing Re. 1 from every ZARANOX SWITCH Box towards primary
+              contributing Re. 1 from every Zaronox SWITCH Box towards primary
               education and rural development initiatives across India, touching
               thousands of lives.
             </p>

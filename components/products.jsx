@@ -431,11 +431,11 @@ export default function Products() {
               <h3 className="text-4xl lg:text-5xl font-poppins font-bold text-white mb-6 text-balance">
                 Experience the
                 <br />
-                <span className="text-yellow-400">Zaranox Difference</span>
+                <span className="text-yellow-400">Zaronox Difference</span>
               </h3>
 
               <p className="text-lg text-gray-300 mb-10 max-w-2xl mx-auto font-inter leading-relaxed">
-                Join thousands of satisfied customers who have chosen Zaranox
+                Join thousands of satisfied customers who have chosen Zaronox
                 for their premium electrical solutions.
               </p>
 

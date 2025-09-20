@@ -33,7 +33,7 @@ export default function Hero() {
       <div className="relative z-10 text-center text-white px-4 max-w-5xl mx-auto">
         {/* <div className="mb-6">
           <span className="text-yellow-400 text-sm font-medium tracking-[0.2em] uppercase font-inter ">
-            Since 1980 • Zaranox Electrical Solutions
+            Since 1980 • Zaronox Electrical Solutions
           </span>
         </div> */}
 
@@ -52,8 +52,8 @@ export default function Hero() {
           <Button
             className="bg-yellow-400 hover:bg-yellow-500 text-black font-semibold px-10 py-4 text-lg rounded-full transition-all duration-300 hover:scale-105 font-inter"
             onClick={() => {
-              const el = document.getElementById('products');
-              if (el) el.scrollIntoView({ behavior: 'smooth' });
+              const el = document.getElementById("products");
+              if (el) el.scrollIntoView({ behavior: "smooth" });
             }}
           >
             Discover Collection
@@ -62,8 +62,8 @@ export default function Hero() {
             variant="outline"
             className="border-2 border-yellow-400/50 text-yellow-400 hover:bg-yellow-400 hover:text-black px-10 py-4 text-lg bg-transparent rounded-full transition-all duration-300 hover:scale-105 font-inter"
             onClick={() => {
-              const el = document.getElementById('contact');
-              if (el) el.scrollIntoView({ behavior: 'smooth' });
+              const el = document.getElementById("contact");
+              if (el) el.scrollIntoView({ behavior: "smooth" });
             }}
           >
             Get Consultation
@@ -73,7 +73,7 @@ export default function Hero() {
         <div className="inline-flex items-center gap-3 bg-black/60 backdrop-blur-md border border-yellow-400/30 rounded-full px-8 py-4 shadow-2xl">
           <Award className="w-5 h-5 text-yellow-400" />
           <span className="text-yellow-300 font-medium font-inter">
-            India's Most Trusted Electrical Brand - Zaranox 2024
+            India's Most Trusted Electrical Brand - Zaronox 2024
           </span>
         </div>
       </div>

@@ -25,14 +25,14 @@ export default function Header() {
               rounded-lg flex items-center justify-center shadow-lg p-1"
             >
               <img
-                src="/zaranox-logo.png"
-                alt="Zaranox Logo"
+                src="/Zaronox-logo.png"
+                alt="Zaronox Logo"
                 className="w-full h-full object-contain"
               />
             </div>
             {/* <div>
               <h1 className="text-white font-poppins font-bold text-xl">
-                Zaranox
+                Zaronox
               </h1>
               <p className="text-yellow-400 text-xs font-inter">
                 Electrical Solutions
@@ -53,6 +53,12 @@ export default function Header() {
               className="text-gray-300 hover:text-yellow-400 transition-colors font-inter"
             >
               About
+            </button>
+            <button
+              onClick={() => scrollToSection("careers")}
+              className="text-gray-300 hover:text-yellow-400 transition-colors font-inter"
+            >
+              Careers
             </button>
             <button
               onClick={() => scrollToSection("contact")}
@@ -96,6 +102,12 @@ export default function Header() {
                 className="text-gray-300 hover:text-yellow-400 transition-colors text-left py-2 font-inter"
               >
                 About
+              </button>
+              <button
+                onClick={() => scrollToSection("careers")}
+                className="text-gray-300 hover:text-yellow-400 transition-colors text-left py-2 font-inter"
+              >
+                Careers
               </button>
               <button
                 onClick={() => scrollToSection("contact")}

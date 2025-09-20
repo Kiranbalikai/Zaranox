@@ -18,8 +18,8 @@ export default function Contact() {
     },
     {
       title: "Website",
-      value: "www.zaranoxelectricals.com",
-      link: "https://www.zaranoxelectricals.com",
+      value: "www.Zaronoxelectricals.com",
+      link: "https://www.Zaronoxelectricals.com",
       description: "Explore our complete product range",
       icon: <Globe className="w-6 h-6" />,
     },
@@ -35,19 +35,19 @@ export default function Contact() {
   const socialMedia = [
     {
       platform: "Instagram",
-      handle: "@zaranox_electrical",
-      link: "https://instagram.com/zaranox_electricals",
+      handle: "@Zaronox_electrical",
+      link: "https://instagram.com/Zaronox_electricals",
       icon: <Instagram className="w-6 h-6" />,
     },
     {
       platform: "Facebook",
-      handle: "Zaranox Electrical Solutions",
-      link: "https://facebook.com/zaranox.electricals",
+      handle: "Zaronox Electrical Solutions",
+      link: "https://facebook.com/Zaronox.electricals",
       icon: <Facebook className="w-6 h-6" />,
     },
     {
       platform: "YouTube",
-      handle: "@Zaranox Electrical",
+      handle: "@Zaronox Electrical",
       link: "https://youtube.com/@apswitches",
       icon: <Youtube className="w-6 h-6" />,
     },
@@ -184,7 +184,7 @@ export default function Contact() {
                     Call: 9838896679
                   </a>
                   <a
-                    href="https://www.zaranoxelectricals.com"
+                    href="https://www.Zaronoxelectricals.com"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="border-2 border-yellow-400/50 text-yellow-400 hover:bg-yellow-400 hover:text-black px-10 py-4 rounded-full transition-all duration-300 hover:scale-105 font-inter"

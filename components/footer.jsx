@@ -17,7 +17,7 @@ export default function Footer() {
           {/* Company Info */}
           <div className="text-center lg:text-left">
             <h3 className="text-3xl font-poppins font-bold text-yellow-400 mb-6">
-              Zaranox Electrical Solutions
+              Zaronox Electrical Solutions
             </h3>
             <p className="text-gray-300 mb-6 text-pretty font-inter leading-relaxed">
               Illuminating Excellence Since 1980. India's premier electrical
@@ -66,7 +66,7 @@ export default function Footer() {
               <div className="absolute inset-0 bg-yellow-400/5 rounded-2xl blur-xl" />
               <div className="relative bg-black/40 backdrop-blur-md border border-yellow-400/30 rounded-2xl p-6">
                 <p className="text-gray-300 text-sm text-pretty font-inter leading-relaxed mb-4">
-                  For every Zaranox SWITCH Box purchased, we contribute Re. 1
+                  For every Zaronox SWITCH Box purchased, we contribute Re. 1
                   towards primary education and development initiatives for
                   rural communities across India.
                 </p>
@@ -107,7 +107,7 @@ export default function Footer() {
                   Visit Online
                 </div>
                 <div className="text-white font-inter">
-                  zaranox_electrical.com
+                  Zaronox_electrical.com
                 </div>
               </div>
             </div>
@@ -130,7 +130,7 @@ export default function Footer() {
           <div className="flex flex-col md:flex-row justify-between items-center gap-6">
             <div className="text-center md:text-left">
               <p className="text-gray-400 font-inter text-sm mb-2">
-                © 2025 Zaranox Electrical Solutions. All rights reserved.
+                © 2025 Zaronox Electrical Solutions. All rights reserved.
               </p>
               <p className="text-gray-500 font-inter text-xs">
                 Manufactured by Sonu Enterprises • Bawana Industrial Area, Delhi
